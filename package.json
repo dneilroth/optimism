@@ -96,6 +96,7 @@
     "async": "2.6.4",
     "json5": "1.0.2",
     "lodash": "^4.17.21",
-    "node-fetch": "2.6.7"
+    "node-fetch": "2.6.7",
+    "underscore": "1.12.1"
   }
 }
