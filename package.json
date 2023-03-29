@@ -94,6 +94,7 @@
     "@codechecks/client": "^0.1.11",
     "@ethersproject/abstract-provider": "^5.7.0",
     "async": "2.6.4",
-    "json5": "1.0.2"
+    "json5": "1.0.2",
+    "lodash": "^4.17.21"
   }
 }
